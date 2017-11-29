@@ -23,6 +23,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 
 ## Your first Python command!
+INSERT TEXT HERE
 
 After running the Python command, the prompt changed to `>>>`. For us this means that for now we may only use commands in the Python language. You don't have to type in `>>>` – Python will do that for you.
 
