@@ -1,3 +1,13 @@
+<script>alert('Hello World');</script>
+
+<style>
+    #my-header {
+        background: #333; color: #fff;
+    }
+</style>
+
+<h1 id="my-header">Hello World</h1>
+
 # If you're doing the tutorial at home
 
 If you're doing the tutorial at home, not at one of the [Django Girls events](https://djangogirls.org/events/), you can completely skip this chapter now and go straight to the [How the Internet works](../how_the_internet_works/README.md) chapter.
